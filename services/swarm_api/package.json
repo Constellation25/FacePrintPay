@@ -1,7 +1,7 @@
 {
-  "name": "swarm_api",
+  "name": "swarm-api",
   "version": "1.0.0",
-  "scripts": {
-    "start": "node swarm_api.js"
+  "dependencies": {
+    "express": "^4.18.2"
   }
 }
