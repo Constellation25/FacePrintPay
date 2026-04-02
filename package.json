@@ -10,6 +10,7 @@
   },
   "scripts": {
     "start": "node gateway.js",
-    "dev": "node gateway.js"
+    "dev": "node gateway.js",
+    "build": "echo \"Build complete\""
   }
 }
