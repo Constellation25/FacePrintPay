@@ -1,4 +1,4 @@
-export AI_METAVERSE_BASE="/data/data/com.termux/files/home/storage/shared/AiMetaverse/plan_aimeta001"
+export AI_METAVERSE_BASE="/data/data/com.termux/files/home/storage/external-1/shared/AiMetaverse/plan_aimeta001"
 export ART_DIR="$AI_METAVERSE_BASE/artifacts/chat_$(date +%Y%m%d_%H%M%S)"
 
 mkdir -p "$ART_DIR"
